@@ -70,9 +70,6 @@ I enjoy working at the intersection of **AI × Backend × Cloud**, turning compl
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karnajoshii&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karnajoshii&theme=tokyonight" />
