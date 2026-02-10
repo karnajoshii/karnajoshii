@@ -1,62 +1,68 @@
-## Hi there 👋 I'm Karna Joshi
+<h1 align="center">Hi 👋, I'm Karna Joshi</h1>
+<h3 align="center">GenAI / LLM Engineer • Python Backend • MLOps</h3>
 
-🚀 **GenAI / LLM Engineer | Python Backend | MLOps Enthusiast**
+<p align="center">
+  <i>Building intelligent systems that think, search, and respond.</i>
+</p>
 
-I’m a passionate GenAI Engineer with 2+ years of hands-on experience building and deploying **LLM-powered applications**, intelligent chatbots, and scalable AI systems. I love turning complex problems into clean, production-ready solutions.
-
----
-
-### 🔭 Currently Working On
-- Enterprise-grade **GenAI & LLM applications**
-- **RAG-based systems** using vector databases
-- AI-powered chatbots handling thousands of real-time queries
-- End-to-end deployment using **Docker & AWS**
+<p align="center">
+  🤖 LLMs & RAG • ⚙️ Backend APIs • ☁️ Cloud & MLOps
+</p>
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **LLM optimization & evaluation**
-- **Agentic AI workflows**
-- Scalable **MLOps pipelines**
-- Improving latency & accuracy in RAG systems
+## ✨ About Me
+
+I’m a **GenAI Engineer with 2+ years of experience** crafting production-ready AI systems — from  
+**LLM-powered chatbots** and **document Q&A engines** to **computer vision models** and scalable backend APIs.
+
+I enjoy working at the intersection of **AI × Backend × Cloud**, turning complex ideas into reliable, real-world products.
 
 ---
 
-### 👯 Looking to Collaborate On
-- GenAI / LLM projects  
-- AI chatbots & document Q&A systems  
-- Backend-heavy AI products  
-- Open-source AI tooling
+## 🚀 What I’m Working On
+- 🧠 **LLM & RAG systems** with vector databases  
+- 💬 AI chatbots handling **5K+ daily queries**  
+- ⚙️ Python backends with **Flask / FastAPI**  
+- ☁️ Dockerized deployments on **AWS**
 
 ---
 
-### 💬 Ask Me About
-- LLMs, RAG, LangChain, Haystack  
-- Python (Flask, FastAPI, Django)  
-- AI Chatbots & APIs  
-- Vector Databases (PGVector, MongoDB, MySQL)  
-- YOLO, Computer Vision & NLP
+## 🌱 Currently Exploring
+- Agentic AI & multi-step reasoning
+- LLM evaluation & optimization
+- Advanced MLOps workflows
+- Reducing latency in RAG pipelines
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 **Languages:** Python, JavaScript  
-**AI/ML:** LLMs, RAG, NLP, LangChain, TensorFlow, PyTorch, YOLOv7  
-**Backend:** Flask, FastAPI, Django, REST APIs, JWT  
-**Databases:** MySQL, PostgreSQL, MongoDB, Vector DBs  
+**AI / ML:** LLMs, RAG, LangChain, Haystack, NLP, YOLOv7, TensorFlow, PyTorch  
+**Backend:** Flask, FastAPI, Django, REST APIs, JWT, Next.js  
+**Databases:** MySQL, PostgreSQL, MongoDB, Vector Databases  
 **Cloud & DevOps:** Docker, AWS (EC2, SageMaker), GCP, GitHub Actions  
 
 ---
 
-### ⚡ Fun Fact
-I enjoy building AI systems that replace *hours of manual work* with a few smart prompts 🤖✨
+## 💡 Things You Can Ask Me About
+- Designing LLM-powered products
+- RAG pipelines & vector search
+- AI chatbots & document intelligence
+- Python backend & API architecture
 
 ---
 
-### 📫 How to Reach Me
-- 📧 Email: **karnajoshi58@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/karnajoshi](https://www.linkedin.com/in/karnajoshi)
+## ⚡ Fun Fact
+I love replacing *manual workflows* with **one smart AI pipeline** 🚀
 
 ---
 
-⭐ *If you like my work, feel free to star a repo or connect with me!*
+## 📫 Let’s Connect
+- 📧 **karnajoshi58@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/karnajoshi)
+
+<p align="center">
+  <i>⭐ If my work resonates with you, feel free to star a repo or connect!</i>
+</p>
