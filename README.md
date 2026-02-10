@@ -17,7 +17,7 @@
 
 ## ✨ About Me
 
-I’m a **GenAI Engineer with 2+ years of experience** building production-ready AI systems — from  
+I’m a **GenAI Engineer with 3 years of experience** building production-ready AI systems — from  
 **LLM-powered chatbots** and **RAG-based document Q&A engines** to **computer vision models** and scalable backend APIs.
 
 I enjoy working at the intersection of **AI × Backend × Cloud**, turning complex ideas into reliable, real-world products.
